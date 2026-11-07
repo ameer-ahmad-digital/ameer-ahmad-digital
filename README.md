@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=65D8FF&center=true&vCenter=true&width=750&lines=AI+Engineer;AI+Automation+Specialist;Digital+Marketing+Expert;INNOVATE+%7C+AUTOMATE+%7C+GROW" />
 
-<br/>
 
-<img src="ameer-photo.jpg" width="220" alt="Ameer Ahmad" />
 
 <h2>AI Engineer | AI Automation Specialist | Digital Marketing Expert</h2>
 
