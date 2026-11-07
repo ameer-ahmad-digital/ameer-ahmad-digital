@@ -1,123 +1,48 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=AMEER%20AHMAD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Automation%20Specialist&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:080808,60:00152B,100:000000&height=220&section=header&text=AMEER%20AHMAD&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20ENGINEER%20%20%7C%20%20AI%20AUTOMATION%20SPECIALIST%20%20%7C%20%20DIGITAL%20MARKETING%20EXPERT&descSize=15&descColor=00BFFF&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI+Engineer;AI+Automation+Specialist;Digital+Marketing+Expert;Building+Smart+Digital+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+Engineer;AI+Automation+Specialist;Digital+Marketing+Expert;Turning+Ideas+Into+Digital+Success"/>
 
-<p>
-<a href="https://www.linkedin.com/in/ameer-ahmad-575044431"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/ameer.ahmad302/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@ameer.digital.grow"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=61579509570231"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+<br/>
+
+
+
+# AMEER AHMAD
+
+### AI Engineer | AI Automation Specialist | Digital Marketing Expert
+
+**I N N O V A T E　 •　 A U T O M A T E　 •　 G R O W**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ameer-ahmad-575044431"><img src="https://img.shields.io/badge/LinkedIn-Connect-080808?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/></a>
+<a href="https://www.instagram.com/ameer.ahmad302/"><img src="https://img.shields.io/badge/Instagram-Connect-080808?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="YOUR_FACEBOOK_LINK"><img src="https://img.shields.io/badge/Facebook-Connect-080808?style=for-the-badge&logo=facebook&logoColor=00BFFF"/></a>
+<a href="https://www.tiktok.com/@ameer.digital.grow"><img src="https://img.shields.io/badge/TikTok-Connect-080808?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 
 </div>
 
 ---
 
-# ABOUT ME
+<div align="center">
 
-Hello! I'm **Ameer Ahmad**, an AI Engineer, AI Automation Specialist, and Digital Marketing Expert.
+# ◈ ABOUT ME
 
-I help businesses grow through intelligent AI solutions, workflow automation, and powerful digital marketing strategies.
-
-My mission is to make businesses smarter, faster, and more successful through modern technology.
-
----
-
-# MY PROFESSIONAL SERVICES
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td bgcolor="#050505">
 
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=700" width="100%" />
+**Turning Ideas Into Digital Success**
 
-### 01. AI Engineering & Solutions
+I am **Ameer Ahmad**, an AI Engineer, AI Automation Specialist, and Digital Marketing Expert.
 
-I create intelligent AI-powered solutions that help businesses improve productivity, automate tasks, and solve complex problems.
+I help businesses grow with intelligent AI solutions, smart automation systems, and powerful digital marketing strategies.
 
-- AI-powered solutions
-- ChatGPT integration
-- Prompt engineering
-- Smart AI systems
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=700" width="100%" />
-
-### 02. AI Workflow Automation
-
-I build automated workflows that connect apps and services to reduce manual work and save valuable time.
-
-- n8n automation
-- Make.com workflows
-- Business process automation
-- API integrations
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://images.unsplash.com/photo-1784729553968-07da5d7b7c99?auto=format&fit=crop&fm=jpg&q=80&w=900" width="100%" />
-
-### 03. Digital Marketing
-
-I help brands reach their target audience with smart marketing strategies and effective online campaigns.
-
-- Marketing strategy
-- Brand awareness
-- Campaign planning
-- Online growth
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?w=700" width="100%" />
-
-### 04. SEO & Online Visibility
-
-I improve website visibility and help businesses reach more potential customers through search engines.
-
-- Search engine optimization
-- Keyword research
-- On-page SEO
-- Website optimization
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://images.unsplash.com/photo-1556761175-b413da4baf72?w=700" width="100%" />
-
-### 05. Lead Generation Strategy
-
-I help businesses find potential customers and build effective systems for generating quality leads.
-
-- Lead generation
-- Customer research
-- Lead management
-- Growth strategies
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=700" width="100%" />
-
-### 06. Social Media Marketing
-
-I help brands build a strong social media presence and connect with their audience.
-
-- Social media strategy
-- Content planning
-- Audience engagement
-- Brand growth
+My focus is on innovation, business automation, online visibility, and sustainable digital growth.
 
 </td>
 </tr>
@@ -125,43 +50,156 @@ I help brands build a strong social media presence and connect with their audien
 
 ---
 
-# MY TECHNICAL SKILLS
+<div align="center">
+
+# ◈ MY PROFESSIONAL SERVICES
+
+<sub>INNOVATIVE SOLUTIONS • SMART TECHNOLOGY • BUSINESS GROWTH</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top" bgcolor="#050505">
+
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600" width="100%"/>
+
+### 01. AI Engineering & Solutions
+
+Build intelligent AI solutions for a smarter future.
+
+- ✓ AI Tools & Systems
+- ✓ ChatGPT Integration
+- ✓ Prompt Engineering
+- ✓ Smart AI Solutions
+
+</td>
+<td width="33%" valign="top" bgcolor="#050505">
+
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=600" width="100%"/>
+
+### 02. AI Workflow Automation
+
+Automate business workflows with intelligent systems.
+
+- ✓ n8n Automation
+- ✓ Make.com Workflows
+- ✓ Business Automation
+- ✓ API Integrations
+
+</td>
+<td width="33%" valign="top" bgcolor="#050505">
+
+<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600" width="100%"/>
+
+### 03. Digital Marketing
+
+Grow your brand with smart digital strategies.
+
+- ✓ Marketing Strategy
+- ✓ Brand Growth
+- ✓ Online Campaigns
+- ✓ Audience Targeting
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" bgcolor="#050505">
+
+<img src="https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?w=600" width="100%"/>
+
+### 04. SEO & Online Visibility
+
+Rank higher and improve online visibility.
+
+- ✓ SEO Strategy
+- ✓ Keyword Research
+- ✓ On-Page SEO
+- ✓ Website Optimization
+
+</td>
+<td width="33%" valign="top" bgcolor="#050505">
+
+<img src="https://images.unsplash.com/photo-1556761175-b413da4baf72?w=600" width="100%"/>
+
+### 05. Lead Generation Strategy
+
+Turn potential audiences into loyal customers.
+
+- ✓ Lead Campaigns
+- ✓ Audience Targeting
+- ✓ Lead Management
+- ✓ Business Growth
+
+</td>
+<td width="33%" valign="top" bgcolor="#050505">
+
+<img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600" width="100%"/>
+
+### 06. Social Media Marketing
+
+Build a strong and professional social presence.
+
+- ✓ Content Strategy
+- ✓ Audience Engagement
+- ✓ Social Media Growth
+- ✓ Brand Awareness
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" />
-<img src="https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Digital%20Marketing-000000?style=for-the-badge&logo=googleads&logoColor=white" />
-<img src="https://img.shields.io/badge/Lead%20Generation-000000?style=for-the-badge&logo=target&logoColor=white" />
+# ◈ MY PROFESSIONAL SKILLS
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-050505?style=for-the-badge&logo=openai&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/SEO-050505?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital%20Marketing-050505?style=for-the-badge&logo=googleads&logoColor=00BFFF"/>
+
+<img src="https://img.shields.io/badge/n8n-050505?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/Make.com-050505?style=for-the-badge&logo=make&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-050505?style=for-the-badge&logo=openai&logoColor=00BFFF"/>
+
+<img src="https://img.shields.io/badge/Business%20Strategy-050505?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Integration-050505?style=for-the-badge&logo=fastapi&logoColor=00BFFF"/>
 
 </div>
 
 ---
 
-# MY WORKING APPROACH
+<table>
+<tr>
+<td align="center" bgcolor="#050505" width="100%">
 
-- Understand the business requirements.
-- Build a smart and effective strategy.
-- Develop AI-powered solutions.
-- Automate repetitive workflows.
-- Improve digital presence and growth.
-- Focus on quality and results.
+# 🚀 LET'S WORK TOGETHER
 
----
+### Have a project or business idea?
 
-# LET'S WORK TOGETHER
+**Let's connect and turn your ideas into digital success.**
 
-Have a project or business idea? Let's connect and build something amazing.
+<br/>
+
+<a href="https://www.linkedin.com/in/ameer-ahmad-575044431">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**AMEER AHMAD**
+
+<sub>AI ENGINEER • AUTOMATION SPECIALIST • DIGITAL MARKETER</sub>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ameer-ahmad-575044431">
-<img src="https://img.shields.io/badge/CONTACT%20ME-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:00152B,100:000000&height=130&section=footer" width="100%"/>
 
 </div>
